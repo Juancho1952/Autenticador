@@ -22,5 +22,5 @@ Este es un sistema básico de autenticación de usuarios utilizando el framework
    ```bash
    pip install Flask
 
-   Licencia
+Licencia
 Este proyecto es de código abierto bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
